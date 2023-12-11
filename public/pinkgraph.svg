@@ -1,0 +1,24 @@
+<svg width="174" height="89" viewBox="0 0 174 89" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2281">
+<g id="Group 2280">
+<path id="Vector 380" d="M3.5 50.5017C8.04602 47.5443 18.5336 38.7797 24.1157 27.3804C31.0933 13.1312 42.8284 -11.0655 52.9776 10.7116C63.1269 32.4886 71.3731 56.4164 88.1828 58.8361C104.993 61.2558 103.09 40.2853 110.384 40.2853C117.679 40.2853 118.313 79 132.903 79C147.493 79 147.81 10.7116 173.5 10.7116" stroke="#E697FF" stroke-width="3"/>
+<g id="Group 2045">
+<ellipse id="Ellipse 2" cx="2.53473" cy="49.5621" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 456" cx="20.3399" cy="29.9735" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 457" cx="40.4429" cy="1.91407" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 458" cx="59.9717" cy="39.5031" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 459" cx="79.5001" cy="58.5623" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 460" cx="99.6031" cy="39.5031" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 461" cx="119.131" cy="77.6216" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<ellipse id="Ellipse 462" cx="156.465" cy="10.9143" rx="2.03473" ry="1.91407" fill="#E697FF"/>
+<path id="Vector 380_2" opacity="0.2" d="M21.4795 27.0559C15.7989 38.2993 5.12624 46.944 0.5 49.861V89H173.5V10.6151C147.356 10.6151 147.034 77.9695 132.187 77.9695C117.34 77.9695 116.694 39.7843 109.271 39.7843C101.847 39.7843 103.784 60.4679 86.6772 58.0814C69.5709 55.6948 61.1791 32.0943 50.8507 10.6151C40.578 -10.7484 28.7088 12.746 21.5946 26.8281L21.4795 27.0559Z" fill="url(#paint0_linear_166_184)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_166_184" x1="87" y1="2.02271" x2="87" y2="89" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E697FF"/>
+<stop offset="1" stop-color="#E697FF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
